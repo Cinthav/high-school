@@ -17,11 +17,7 @@ In retrospect, I recognize that the quality of the program may not align with my
 
 I want to emphasize that the BraveFrontierTool project served as a valuable learning opportunity and a stepping stone in my programming journey. It showcases my determination, adaptability, and eagerness to explore new technologies and concepts. While its complexity may not match my current endeavors, it serves as a reminder of my growth and dedication over time.
 
-To maintain academic integrity and honor the honor code, this project remains within a private repository. For further inquiries about the project, I encourage you to reach out to Garfield High School in VA, my alma mater, and connect with my esteemed teacher, who guided us through this challenging endeavor. They can provide additional insights into the scope, effort, and accomplishments of this project.
-
 Within this repository, you will find the comprehensive materials related to the BraveFrontierTool project, including the cover page and associated files, neatly organized in a dedicated folder of the same name.
-
-It serves as a testament to my perseverance and ability to navigate challenges, even under difficult circumstances. I am excited to apply the valuable lessons I learned from this project to new and more complex endeavors.
 
 ## Focus on User Interfaces
 
